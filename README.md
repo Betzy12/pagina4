@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>Ejemplo4</TITLE>
+
 </HEAD>
 <BODY>
 Esto es texto simple: cada navegador lo visualizara según su configuración por defecto.<BR>
